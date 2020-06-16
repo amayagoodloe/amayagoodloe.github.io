@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Amaya Goodloe
+description: Amaya Goodloe is a marketing major with a pschology minor attending Marvyville College. 
 keywords: statistics, data analytics
 ---
 
