@@ -34,7 +34,7 @@ Amaya Goodloe
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/AmayaResume.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](https://github.com/amayagoodloe/amayagoodloe.github.io/blob/master/assets/Amaya%20Resume.pdf)
 
 ---
 
