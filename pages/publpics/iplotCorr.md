@@ -19,7 +19,7 @@ see Broman (2015) Genetics 199:359-361
 [![pdf](../icons16/pdf-icon.png)](http://www.biostat.wisc.edu/~kbroman/publications/rqtlcharts.pdf)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_Rqtlcharts)
 
-[![R/qtlcharts example](../../assets/bigpublpics/Picture1.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
+[![R/qtlcharts example](../../assets/publpics/Picture1.png)](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 
 Static view of an [interactive graph](http://kbroman.org/qtlcharts/example/iplotCorr.html)
 from [R/qtlcharts](http://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation
