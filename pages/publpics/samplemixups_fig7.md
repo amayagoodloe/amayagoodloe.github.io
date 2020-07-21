@@ -22,7 +22,7 @@ mix-ups in expression genetic data: A case study. [G3](http://g3journal.org)
 [![GitHub](../icons16/github-icon.png)](https://github.com/kbroman/Paper_SampleMixups)
 [![R/lineup software](../icons16/R-icon.png)](https://github.com/kbroman/lineup)
 
-![Broman et al. (2015) Fig 7](../../assets/bigpublpics/samplemixups_fig7_lg.png)
+![Broman et al. (2015) Fig 7](../../assets/Picture2.png)
 
 **Figure 7**. &mdash; The DNA sample mix-ups on the seven 96-well plates used
 for genotyping. Black dots indicate that the correct DNA was put in
