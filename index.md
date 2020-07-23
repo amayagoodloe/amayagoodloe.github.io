@@ -8,10 +8,10 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="https://github.com/amayagoodloe/amayagoodloe.github.io/blob/master/assets/Amaya%20Resume.pdf">cv</a></li>
+          <li><a href="https://github.com/amayagoodloe/amayagoodloe.github.io">github</a></li>
+          <li><a href="https://medium.com/@amaya.goodloe/unexpected-opportunities-4b6ed3babdfa?source=friends_link&sk=d70899a16517d7ba13c9a17658d17f4d">blog</a></li>
+          <li><a href="http://www.linkedin.com/in/amaya-goodloe">LinkedIn</a></li>
       </ul>
   </div>
 </div>
